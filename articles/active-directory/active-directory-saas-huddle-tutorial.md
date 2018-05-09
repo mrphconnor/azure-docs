@@ -113,7 +113,7 @@ In this section, you enable Azure AD single sign-on in the Azure portal and conf
 
 	![Configure Single Sign-On](./media/active-directory-saas-huddle-tutorial/tutorial_huddle_url.png)
 
-    In the **Sign-on URL** textbox, type a URL using the following pattern: `http://<company name>.huddle.com`
+    In the **Sign-on URL** textbox, type a URL using the following pattern: `http://<company name>.huddle.net`
 
 	> [!NOTE] 
 	> This value is not real. Update this value with the actual Sign-On URL. Contact [Huddle Client support team](https://huddle.zendesk.com) to get this value. 
